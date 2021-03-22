@@ -2,8 +2,14 @@
   text-align: center;
 }
 
-body {
-  font-family: 'nanumsquare';
+.body {
+  font-family: sans-serif;
+}
+
+.modal {
+  margin-top: 20px;
+  padding: 20px;
+  background-color:wheat;
 }
 
 .black-nav {
